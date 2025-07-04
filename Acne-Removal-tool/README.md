@@ -1,7 +1,7 @@
 # Acne-detection-and-removal
 
 > Final Project in "Computer Vision and Deep Learning" course in IIT Kanpur, 2025.  
-> Authors: [Rahul Kumar Meena](https://github.com/rahulkumarmeena29), [Navdeep Singh](https://github.com/Navdeep1331)
+> Authors: [Karan Kumar](https://github.com/karan6474)
 >
 
 <p float="left">
